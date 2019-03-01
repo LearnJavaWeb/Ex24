@@ -1,9 +1,2 @@
-Customer Management System Demo using Spring MVC4 used at [CodeGym](https://codegym.vn) 
-
-== Execute tests ==
-
-```./gradlew test```
-
-== Code Coverage ==
-
-```./gradlew test jacocoTestReport```
+Ứng dụng Quản lý khách hàng: Quản lý tỉnh
+[Thực hành] Quản lý khách hàng: Phân trang và tìm kiếm
