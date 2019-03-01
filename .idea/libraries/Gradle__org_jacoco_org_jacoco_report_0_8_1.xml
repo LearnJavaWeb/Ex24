@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jacoco:org.jacoco.report:0.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.report/0.8.1/584d29c1b9e0d3a92e9588254a63fdce93b85702/org.jacoco.report-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.report/0.8.1/fb7b10645c16b804b6a8e8d6302ac5aebcba1ee4/org.jacoco.report-0.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
